@@ -7,3 +7,17 @@ body {
 h1 {
     color: #ff6347;
 }
+nav {
+    text-align: center;
+    padding: 10px;
+    background-color: #ffebcd;
+}
+nav a {
+    text-decoration: none;
+    font-size: 18px;
+    margin: 10px;
+    color: #ff6347;
+}
+h1 {
+    color: #ff6347;
+}
